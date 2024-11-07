@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Newbie into the world of HTML and CSS coding tries his hand at making a webpage">
+	<meta name="keywords" content="html, css, education, newbie, first-attempt">
+	<meta name="author" content="Charles Tack">
+
+<title>Charlie's First Page</title>
+<link href="assets/css/index.css" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+<div class="wrapper">
+    <header>
+        <h1>Charlie's First Web Page!</h1>
+        <h3>...now, what do I make it about?</h3>
+         
+    </header>
+
+    <nav>
+    
+
+
+    </nav>
+
+
+    <section>
+        <div id="music">
+            <h4>Maybe my music?</h4>
+            <img src="assets/media/images/guitars.jpg" alt="guitars" width="500">
+            <br>
+            <video src="assets/media/video/PlayingCompd.mp4" alt="Playing an acoustic guitar" width="500" controls></video>
+        </div>
+    </section>
+        
+    <section>
+        <div id="dogs">
+            <h4>Maybe my dogs?</h4>
+        </div>
+    </section>
+
+    <section>
+        <div id="family">
+            <h4>Maybe my family?</h4>
+            <p><i>(Shouldn't family come before dogs?)</i></p>
+        </div>
+
+    </section>
+
+    <footer>
+        <div id="copyright">
+            Copyright some idiot called Charles Tack 2024
+        </div>
+
+    </footer>
+</div>
+</body>
+
+</html>
