@@ -9,7 +9,8 @@
 	<meta name="author" content="Charles Tack">
 
 <title>Charlie's First Page</title>
-<link href="assets/css/index.css" rel="stylesheet" type="text/css">
+<!--commented out CSS external link to keep with the idea of this being HTML only-->
+<!--<link href="assets/css/style.css" rel="stylesheet" type="text/css">-->
 
 </head>
 <body>
@@ -25,6 +26,11 @@
 
 
     </nav>
+    <section>
+        <p>Please note, this is just plain old HTML as the idea of this website is that as the page numbers increase, so does the complexity, so it develops along with my learning.
+        </p>
+        <p>It's janky, nothing looks nice, and the Times New Roman may make you sick.</p>
+    </section>
 
 
     <section>
@@ -32,13 +38,14 @@
             <h4>Maybe my music?</h4>
             <img src="assets/media/images/guitars.jpg" alt="guitars" width="500">
             <br>
-            <video src="assets/media/video/PlayingCompd.mp4" alt="Playing an acoustic guitar" width="500" controls></video>
+            <video src="assets/media/video/PlayingCompd.mp4" alt="Me playing an acoustic guitar" width="500" controls></video>
         </div>
     </section>
         
     <section>
         <div id="dogs">
             <h4>Maybe my dogs?</h4>
+            <img src="assets/media/images/fudge.jpg" alt="One of my dogs, this one is called Fudge" width="500">
         </div>
     </section>
 
@@ -46,6 +53,7 @@
         <div id="family">
             <h4>Maybe my family?</h4>
             <p><i>(Shouldn't family come before dogs?)</i></p>
+            <p>I need to find a nice picture of my family, though they're often pulling faces!</p>
         </div>
 
     </section>
