@@ -1,0 +1,21 @@
+/* Global Styles */
+
+
+
+
+/* Page 2 Styles */
+
+body {
+  background-color: #FBF5F3;
+}
+
+nav {
+  background-color: #C4D4CD;
+  
+}
+
+#page-2-font {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  color: #172A3A;
+}
