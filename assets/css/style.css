@@ -30,7 +30,27 @@ nav a {
   color: #172A3A;
 }
 
-/* Picture formatting */
+#page-2-font p {
+    width: 800px;
+}
+
+#family h3 {
+  margin-top: 0;
+}
+
+#family p {
+    margin: 20px 0 40px 0;
+}
+
+#page-2-footer {
+    background-color: #C4D4CD;
+}
+
+#page-2-main p{
+    width: 800px;
+}
+
+/* Page 2 Picture formatting */
 img {
   width: 800px;
   height: auto;
