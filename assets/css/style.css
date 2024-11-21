@@ -1,6 +1,12 @@
 /* Global Styles */
 
+h2 {
+    color: #004346;
+}
 
+h3 {
+    color: #037971;
+}
 
 
 /* Page 2 Styles */
@@ -11,11 +17,21 @@ body {
 
 nav {
   background-color: #C4D4CD;
-  
+}
+
+nav a {
+  text-decoration: none;
+  padding-right: 10px;
 }
 
 #page-2-font {
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
   color: #172A3A;
+}
+
+/* Picture formatting */
+img {
+  width: 800px;
+  height: auto;
 }
